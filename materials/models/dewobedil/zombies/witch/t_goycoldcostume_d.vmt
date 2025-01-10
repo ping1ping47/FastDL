@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/dewobedil/zombies/witch/T_GoyColdCostume_D"
+	$nocull "1"
+}
