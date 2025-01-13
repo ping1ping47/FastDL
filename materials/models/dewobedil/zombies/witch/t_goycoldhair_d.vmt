@@ -1,7 +1,0 @@
-"VertexlitGeneric"
-{
-	"$basetexture" "models/dewobedil/zombies/witch/T_GoyColdHair_D"
-	$nocull "1"
-	"$alphatest" 1
-	"$allowalphatocoverage" 1
-}
